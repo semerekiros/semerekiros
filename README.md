@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @semerekiros
-- 👀 I’m interested in machine learning in NLP
-- 🌱 I’m currently learning ML and DL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#Features
+A PhD student interested in NLP and Machine learning
 
 <!---
 semerekiros/semerekiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
