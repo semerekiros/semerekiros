@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**semerekiros/semerekiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Phd candidate in Ghent University, Belgium. 
+I work in the [T2K group](https://ugentt2k.github.io/). 
+I am currently working on question generation in the education domain. 
 
-Here are some ideas to get you started:
+### Research interests
+- Text generation
+- Multilinguality
+- Psycho-linguisitcs 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Publications
+- [Lazy Low-Resource Coreference Resolution: a Study on Leveraging Black-Box Translation Tools](https://aclanthology.org/2021.crac-1.6) (Bitew et al., CRAC 2021)
+- [Predicting Suicide Risk from Online Postings in Reddit The UGent-IDLab submission to the CLPysch 2019 Shared Task A](https://aclanthology.org/W19-3019) (Bitew et al., 2019)
+
+
+### Education
+- 2018 - Now, Ph.D candidate in Computer Science Engineering, Ghent University, Ghent, Belgium.
+- 2016 - 2018, MSc in Data Science and Smart Services, Univeristy of Twente, The Netherlands. 
+-  Master's Thesis: [Logical structure extraction of electronic documents using contextual information](http://essay.utwente.nl/76427/1/BITEW_MA_EEMCS.pdf)
+- 2009- 2014, B.Sc in computer science & Engineering 
+
+
+### Email
+semerekiros.bitew@ugent.be
