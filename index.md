@@ -1,34 +1,41 @@
-## Welcome to Semere's Page
+## Welcome to my Page
 
 You can use the [editor on GitHub](https://github.com/semerekiros/semerekiros/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a Phd candidate in Ghent University, Belgium. 
+I work in the [T2K group](https://ugentt2k.github.io/). 
+I am currently working on question generation in the education domain. 
 
-```markdown
-Syntax highlighted code block
+### Research interests
+- Text generation
+- Multilinguality
+- Psycho-linguisitcs 
 
-# Header 1
-## Header 2
-### Header 3
+### Publications
+- [Lazy Low-Resource Coreference Resolution: a Study on Leveraging Black-Box Translation Tools](https://aclanthology.org/2021.crac-1.6) (Bitew et al., CRAC 2021)
+- [Predicting Suicide Risk from Online Postings in Reddit The UGent-IDLab submission to the CLPysch 2019 Shared Task A](https://aclanthology.org/W19-3019) (Bitew et al., 2019)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Education
+- 2018 - Now, Ph.D candidate in Computer Science Engineering, Ghent University, Ghent, Belgium.
+- 2016 - 2018, MSc in Data Science and Smart Services, Univeristy of Twente, The Netherlands. 
+-  Master's Thesis: [Logical structure extraction of electronic documents using contextual information](http://essay.utwente.nl/76427/1/BITEW_MA_EEMCS.pdf)
+- 2009- 2014, B.Sc in computer science & Engineering 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Email
+semerekiros.bitew@ugent.be
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+
+
+
+
+
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/semerekiros/semerekiros/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
