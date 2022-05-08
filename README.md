@@ -1,5 +1,5 @@
 
-I am a Phd candidate in Ghent University, Belgium. 
+I am a Ph.D. candidate in Ghent University, Belgium. 
 I work in the [T2K group](https://ugentt2k.github.io/). 
 I am currently working on question generation in the education domain. 
 
