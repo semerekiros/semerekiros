@@ -9,6 +9,8 @@ I am currently working on question generation in the education domain.
 - Psycho-linguisitcs 
 
 ### Publications
+- [Learning to Reuse Distractors to support Multiple Choice Question Generation in Education](https://arxiv.org/abs/2210.13964)
+- [EduQG: A Multi-format Multiple Choice Dataset for the Educational Domain](https://arxiv.org/abs/2210.13964)
 - [Lazy Low-Resource Coreference Resolution: a Study on Leveraging Black-Box Translation Tools](https://aclanthology.org/2021.crac-1.6) (Bitew et al., CRAC 2021)
 - [Predicting Suicide Risk from Online Postings in Reddit The UGent-IDLab submission to the CLPysch 2019 Shared Task A](https://aclanthology.org/W19-3019) (Bitew et al., 2019)
 
