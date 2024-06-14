@@ -1,12 +1,12 @@
 
-I am a Ph.D. candidate in Ghent University, Belgium. 
-I work in the [T2K group](https://ugentt2k.github.io/). 
-I am currently working on question generation in the education domain. 
+I recieved my Ph.D. from Ghent University, Belgium. 
+I was part of the [T2K group](https://ugentt2k.github.io/). 
 
 ### Research interests
+- Educational Question Generation
+- Biomedical NLP
 - Text generation
 - Multilinguality
-- Psycho-linguisitcs 
 
 ### Publications
 - [Learning to Reuse Distractors to support Multiple Choice Question Generation in Education](https://arxiv.org/abs/2210.13964)(Bitew et al., 2022)
@@ -17,7 +17,8 @@ I am currently working on question generation in the education domain.
 See my [Google Scholar](https://scholar.google.com/citations?user=hreGYC4AAAAJ&hl=en) or my [website](https://semerekiros.github.io/) for an updated list of my publications. 
 
 ### Education
-- 2018 - Now, Ph.D candidate in Computer Science Engineering, Ghent University, Ghent, Belgium.
+- 2018 - 2023, Ph.D candidate in Computer Science Engineering, Ghent University, Ghent, Belgium. Ph.D Thesis: [Language model adaptation with applications in artificial intelligence for education
+](https://biblio.ugent.be/publication/01HQT3DY7CBECQVPBMY7376K3S)
 - 2016 - 2018, MSc in Data Science and Smart Services, Univeristy of Twente, The Netherlands. 
 -  Master's Thesis: [Logical structure extraction of electronic documents using contextual information](http://essay.utwente.nl/76427/1/BITEW_MA_EEMCS.pdf)
 - 2009- 2014, B.Sc in computer science & Engineering 
