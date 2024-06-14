@@ -25,4 +25,4 @@ See my [Google Scholar](https://scholar.google.com/citations?user=hreGYC4AAAAJ&h
 
 
 ### Email
-semerekiros.bitew@ugent.be
+semerebitew@gmail.com
